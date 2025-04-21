@@ -88,8 +88,8 @@ We may update this Privacy Policy to reflect changes in our practices or legal r
 ## Contact Us
 For privacy concerns or data requests:
 - Support Server: https://discord.gg/TW7wySsrue
-- Discord: [Your Discord Username]
-- Email: [Your Email]
+- Discord: Anomus.ly
+- Email: hsnshafique090@gmail.com
 
 ## Compliance
 - Discord Terms of Service compliant
